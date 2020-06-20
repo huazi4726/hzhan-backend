@@ -1,11 +1,8 @@
 
 {
-    "staticPrefix":[
-        "https://b.gsoin.cn",
-        "https://b.control49.cn"
-    ],
     "apiHost":[
         "https://dev01.bakelei.com",
         "https://api.bakelei.com"
-    ]
+    ],
+    "siteUrl":"https://hzhan.net"
 }
