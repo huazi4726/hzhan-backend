@@ -1,8 +1,5 @@
 
 {
-    "apiHost":[
-        "https://dev01.bakelei.com",
-        "https://api.bakelei.com"
-    ],
-    "siteUrl":"https://hzhan.net"
+    "apiHost":"https://dev01.bakelei.com",
+    "domain":"hzhan.net"
 }
